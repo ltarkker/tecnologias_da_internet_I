@@ -32,7 +32,7 @@ tecnologias_da_internet_I/
 │   ├── Proj_Aulas/
 │   │   ├── PL01_2022148GoncaloFernandes/
 │   │   └── PL02_2022148GoncaloFernandes/
-│   ├── Diag.01_07.txt
+│   ├── Diag.01_07.10.txt
 │   └── Diag.02_21.10.txt
 ├── 04_Avaliacao/           Actividades de avaliação (AA I e AA II)
 └── TDII_07.txt             Notas da aula de apresentação
