@@ -1,0 +1,33 @@
+*Moodle - Tecnologias da Internet I  - 07.10.26*
+----------------------------------------------
+
+Rosa (eventos) - Entrega ficha aula
+
+Azul (eventos) - Matéria/infos
+
+----------------------------------------------
+*Avaliação*
+
+Exame - Fevereiro
+
+A.C. (40%)
+
+- Ativ. Práticas (20%)
+- Ativ. Avaliação I (30%)
+	(HTML5 & CSS3)
+
+Ativ. Avaliação II (50%)
+	(JS & DOM 6 APIs)
+	
+
+E.F. (60%)
+
+- Teórico-prática (60%)
+- Prática (40%)
+
+
+----------------------------------------------
+
+e-mail: mario.amorim@my.istec.pt
+
+

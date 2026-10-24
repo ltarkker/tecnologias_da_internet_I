@@ -1,0 +1,99 @@
+Diag. 01 - 07.10.2026
+----------------------
+
+1.
+O user escreve o site num browser, exemplo Microsoft Edge, Google Chrome Safari... 
+Variando depois da empresa que está por trás desse Browser, essa informação é enviada ao server da Google, Microsft, etc por exemplo,
+e é validada se o domínio do site que o user escreveu na search bar existe, se existe depois o server retorna uma resposta certa ao Front End do site e dependendo
+se o site é client-side ou server-side, se for client-side envia o pedido validado no server da google à API que está ligada ao site ou aplicação ou se não for uma API pode ser um RP etc
+e depois nessa API e no motor (backend) existe outra validação e autenticação perante a DB que está conectada, se o user existir e a pwd estiver certa retorna um OK a API ao front end e 
+deixa o user entrar depois do login.
+ 
+
+2.
+Internet podemos dizer que é o recurso ofericido a uma empresa ou pago por uma empresa que quer hospedar um site na Web ou uma app na web.
+
+Web: Não entendi de todo a pergunta, mas pode se referir à WWW que seria associado à internet, ou web mesmo que poderia ser referente a um browser em que o user acessa-se
+um site hospedado.
+
+3.
+HTML - Estrutura do site
+CSS - Digamos camada visual do site (botões, etc)
+JS - Embelezamento do Front End e adição de recursos de interatividade
+
+4.
+HTML & CSS & JS
+TypeScript & Angular (tecnologia)
+ASP.NET MVC (com BFF - Backend For FrontEnd, tem recuso a um backend do lado do front end antes de chegar à API, pode ser uma App Service)
+Flutter/Dart
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Todos os navegadores conseguem abrir todos os tipos de sites desde a era passada 93.
+
+
+93 virou a web para pública.
+
+
+----------------------------------------------------------------------------------------------------------------------
+1. Arpanet - a rede que dá origem à Internet
+
+
+2. 89 - Proposta da Web Berners-Lee 
+
+3. primeiro site 91 - info.cern.ch, igual o html
+
+4. mosaic primeiro navegador gráfico 93
+
+5. JS pages com comportamentos 95
+
+6. CSS1 - Separar a estrutura e aspeto 96
+
+7. HTML5 - 2015
+
+8. HTML Living Standard - 2019
+
+---------------------------------------------------------------------------------------------------------------------------
+Cliente Servidor
+
+
+Comunicação desde o cliente (user) ao servidor onde está hospedado o site
+
+
+---------------------------------------------------------------------------------------------
+
+
+pedido e respostas HTTP
+
+200 - OK
+
+301 - Movido/mudou de endereço
+
+404 - not found
+
+500 - a culpa é do servidor
+
+503, etc...
+
+
+-----------------------------------------------------------------------------------------------
+
+
+
+UTF8 - syntax da escrita letras etc (suporte) PT EN ES FR...
+
+
+-----------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+

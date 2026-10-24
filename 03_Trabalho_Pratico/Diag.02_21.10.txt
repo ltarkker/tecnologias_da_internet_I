@@ -1,0 +1,20 @@
+21.10.2026
+
+Ficha Diag. 02
+-----------------------------------
+
+1. 
+
+<!DOCTYPE=HTML>
+<UTF8
+<Language = pt-PT>
+<
+2.
+href=https... Vai diretamente ao site já publicado
+hred=sobre.html É um caminho relativo que pode estar na mesma pasta
+
+3.
+1
+
+4.
+Podemos, mas não devemos.
