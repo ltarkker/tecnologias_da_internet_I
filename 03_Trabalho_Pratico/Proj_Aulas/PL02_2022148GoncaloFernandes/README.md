@@ -9,14 +9,18 @@ Entrega da prática laboratorial 02 de Tecnologias da Internet I (ISTEC Porto, L
 | Enunciado | `../../../02_Praticas/LEI-A1-S1-TINT1-PL02.pdf` |
 | Ficheiros de partida | `../../../02_Praticas/pl02-ficheiros/` |
 | Resumo e lista de verificação | [docs/praticas.md](../../../docs/praticas.md#pl02--uma-página-com-estrutura-listas-tabelas-e-multimédia) |
-| Repositório GitHub | https://github.com/ltarkker/PL02_2022148GoncaloFernandes |
 
 ## Ficheiros
 
 | Ficheiro | Conteúdo |
 |---|---|
-| `index.html` | Página "A WEB em poucas palavras": `header` com `nav`, `main` com `article` e secções de ênfase no texto, citações, entidades HTML, listas (`ul`, `ol`, `dl`) e duas tabelas (`caption`, `thead`, `tbody`, `tfoot`, `scope`, `colspan`); `aside` com desafio; `footer`. Regra CSS no `head` para as bordas das tabelas. |
-| `LEI-A1-S1-TINT1-PL02.docx` | Ficha PL02 em preenchimento (respostas aos exercícios; substitui o `respostas.txt`). Até agora só tem a resposta ao ex. 1.1. |
+| `index.html` | Página pessoal da PL02: comentário inicial (PL02, nome, número, data); `header` com `h1` e `nav` (`ul` com as quatro ligações); `main` com as `section` Sobre mim (`figure` com avatar, `abbr`, `time`, `strong`/`em`, `code`, `blockquote`, listas `ul`/`ol`/`dl` com `mark` no glossário), Plano semanal (tabela com `caption`, `thead`/`tbody`/`tfoot`, `scope`, `colspan`, `rowspan`), Multimédia (`video` com dois `source` e `poster`, `audio`, `iframe` do OpenStreetMap com `title`), Ligações e Notícias (dois `article` com `header`/`footer`, extra); `aside`; `footer` com `&copy;` e atribuição do mapa. Regra CSS no `head` para as bordas das tabelas. |
+| `pl02-divs-corrigido.html` | Exercício 1: a "sopa de divs" reescrita com `header`, `nav`, `main`, `section`, `article`, `aside` e `footer`. |
+| `pl02-tabela-corrigida.html` | Exercício 6: a tabela partida corrigida (`thead`/`tbody`, `scope`, `colspan="2"`). |
+| `respostas.txt` | Respostas aos exercícios 1, 3, 6 e 8 e descrição dos extras. |
+| `img/` | `avatar_halloween.png`, usado na `figure` do index. |
+| `media/` | `apresentacao.webm`, `apresentacao.mp4`, `poster.jpg` e `som.mp3`, usados nas etiquetas `video` e `audio`. |
+| `pl02-divs.html`, `pl02-tabela-partida.html` | Ficheiros de partida do enunciado (não alterados, não fazem parte da entrega). |
 
 ## Abrir
 
@@ -26,20 +30,9 @@ Entrega da prática laboratorial 02 de Tecnologias da Internet I (ISTEC Porto, L
 
 ## Estado
 
-A página segue os exemplos da T02. Para cumprir o enunciado da PL02 faltam:
+Entrega praticamente completa: `index.html`, `pl02-divs-corrigido.html` e `pl02-tabela-corrigida.html` validam com 0 erros e 0 avisos no validator.w3.org, e o `respostas.txt` tem os exercícios 1, 3, 6 e 8 e os extras. Falta só:
 
-- `nav` com `ul` de quatro ligações (`#sobre`, `#plano`, `#multimedia`, `#ligacoes`) e as quatro `section` correspondentes.
-- Conteúdo pessoal da PL01 (nome, avatar em `figure`, sobre mim, hobbies, ligações), `abbr` e `time`.
-- Tabela do plano semanal com `rowspan` e total de 20 horas.
-- `video` com dois `source`, `audio`, `iframe` do OpenStreetMap com `title` e atribuição no `footer`; pasta `media/`.
-- `pl02-divs-corrigido.html`, `pl02-tabela-corrigida.html`, `respostas.txt` e `validador.png`.
-- Comentário inicial com PL02, nome, número e data.
-
-A corrigir no `index.html` actual antes de validar:
-
-1. `li` directamente dentro de outro `li` na lista não ordenada: a sublista precisa da sua própria `ul`.
-2. `</dt>` solto no fim da lista de descrição.
-3. Gralhas em `aria-label="Navegação princial"` e "Para mostras os símbolos".
+- `validador.png`: captura do validador (File Upload + opção **outline**) do `index.html`, a guardar na raiz do repositório e a incluir no zip.
 
 ## Git
 
